@@ -1,6 +1,6 @@
 <!-- Profile Picture -->
 <p align="center">
-  <img src="C:\Users\tz\OneDrive\Pictures\New folder" alt="Profile Picture" width="150" />
+  <img src="Nandar25\img\my-image 26.JPG" alt="Profile Picture" width="150" />
 </p>
 
 <h1 align="center">Hi, I'm Nandar</h1>
