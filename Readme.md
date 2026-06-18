@@ -1,6 +1,6 @@
 <!-- Profile Picture -->
 <p align="center">
-  <img src="Nandar25\img\my-image 26.JPG" alt="Profile Picture" width="150" />
+  <img src="img/my-image26.JPG" alt="Profile Picture" width="150" />
 </p>
 
 <h1 align="center">Hi, I'm Nandar</h1>
@@ -29,7 +29,7 @@ Aspiring Cloud& Tech Professional, learning coding, cloud fundamentals, and buil
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white" alt="CSS"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+  
 </p>
 
 
