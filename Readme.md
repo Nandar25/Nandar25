@@ -69,12 +69,11 @@ Aspiring Cloud& Tech Professional, learning coding, cloud fundamentals, and buil
 
 ## Connect With Me
 <p align="center">
-  <a href="https://github.com/Nandar25" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-007ACC?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="lin_nandar@yahoo.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
+  <a href="https://github.com/Nandar25" target="_blank"> 
+</a>
+  <a href="https://www.linkedin.com/in/your-linkedin-name/" target="_blank">
+</a>
+<a href="mailto:lin_nandar@yahoo.com"> </a>  
   
 </p>
 
